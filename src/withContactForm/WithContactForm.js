@@ -1,7 +1,5 @@
 import React from "react";
 import {
-  MDBAccordion,
-  MDBAccordionItem,
   MDBBtn,
   MDBCol,
   MDBContainer,
